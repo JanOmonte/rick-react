@@ -1,0 +1,19 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  flex-direction: flex-end;
+}
+li {
+  margin-right: 1rem;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
